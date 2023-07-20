@@ -1,0 +1,56 @@
+*{margin: 3px;  
+    padding: 4px; 
+    align-content: center;
+    align-items: center;
+    text-align: center;
+     }
+  
+  body {
+    background-image: url("https://i.pinimg.com/564x/d7/98/c6/d798c6a834d6a79ef751c8c28ffaf1dd.jpg") ;
+    background-size:cover
+    font-family: cursive;
+         }
+  
+  #tarjeta{
+   background-image: url("C:\Users\abus0\Downloads\fondocorazon.png");
+   background-size: cover;
+  opacity: 90%;
+    border-radius: 25px;
+  
+  }
+  .cont-temporizador{
+      display: flex;
+      justify-content: center;
+      margin-top: 50 px;
+  }
+  .cont-temporizador.bloque{
+    margin: 0px, 0px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  }
+  .cuenta-regresiva {
+      text-align: center;
+    }
+  
+    #tarjetas{
+  align-content: center;
+  display: flex;
+    }
+  
+  .black-pink {
+    background-image:url("https://i.pinimg.com/564x/d7/98/c6/d798c6a834d6a79ef751c8c28ffaf1dd.jpg");
+    color: pink;}
+  .botonentrar{
+  border-bottom: 5px;
+  border-color: blueviolet;
+  background-color: black;
+  color: rgb(226, 43, 171);
+  }
+  .card-body{
+    background-color: black;
+  }
+  .card{
+    background-image:url("https://i.pinimg.com/564x/d7/98/c6/d798c6a834d6a79ef751c8c28ffaf1dd.jpg");
+    border: 0px;
+  }
